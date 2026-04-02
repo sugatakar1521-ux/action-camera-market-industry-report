@@ -9,7 +9,7 @@ The global [**Action Camera Market**](https://www.nextmsc.com/report/action-came
 
 **Recent Industry Developments and Tech Disruption**
 
-Major product roadmaps and competitive strategies have shifted in the last year. GoPro is launching next‑generation cameras powered by its GP3 imaging processor, which doubles pixel processing power and introduces dedicated AI capabilities, underpinning efforts to regain market momentum. Pricing pressure and promotional sales on models like DJI’s Osmo Action 4 and Osmo 360 signal intense competition and attempts to stimulate demand in saturated segments. A U.S. International Trade Commission ruling favoring Insta360 over GoPro on patent validity enhances competitive innovation incentives and could temper litigation risk premiums.
+Major product roadmaps and competitive strategies have shifted in the last year. GoPro is launching next‑generation cameras powered by its GP3 imaging processor, which doubles pixel processing power and introduces dedicated AI capabilities, underpinning efforts to regain market momentum.  Pricing pressure and promotional sales on models like DJI’s Osmo Action 4 and Osmo 360 signal intense competition and attempts to stimulate demand in saturated segments. A U.S. International Trade Commission ruling favoring Insta360 over GoPro on patent validity enhances competitive innovation incentives and could temper litigation risk premiums.
 
 **Professional and Enterprise Demand Dynamics**
 
